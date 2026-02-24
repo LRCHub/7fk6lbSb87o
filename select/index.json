@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Ubiquitous dB",
+  "base_artist": "ユナ (CV:神田沙也加)",
+  "createdAt": "2026-02-24T07:00:02.944977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ubiquitous dB",
+      "artist": "ユナ (CV:神田沙也加)",
+      "has_synced": true,
+      "path": "select/01_Ubiquitous_dB_ユナ_(CV_神田沙也加).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ubiquitous dB",
+      "artist": "ユナ(CV.神田沙也加)",
+      "has_synced": true,
+      "path": "select/02_Ubiquitous_dB_ユナ(CV.神田沙也加).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ubiquitous dB",
+      "artist": "神田沙也加",
+      "has_synced": true,
+      "path": "select/03_Ubiquitous_dB_神田沙也加.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ubiquitous dB",
+      "artist": "ユナ(cv:神田沙也加)",
+      "has_synced": false,
+      "path": "select/pl_01_Ubiquitous_dB_ユナ(cv_神田沙也加).txt"
+    }
+  ]
+}
